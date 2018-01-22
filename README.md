@@ -1,2 +1,1 @@
-# WIP-documents
-Leaflet maps
+# m2-upc2018
